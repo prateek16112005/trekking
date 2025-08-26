@@ -318,7 +318,7 @@ export const featuredTreks: TrekItinerary[] = [
     rating: 4.6,
     reviewCount: 445,
     image:
-      "https://i0.wp.com/bnkhimalayan.com/wp-content/uploads/2022/09/IMG_3598a.jpg?fit=1501%2C1000&ssl=1",
+      "public\images\har-ki-dun-gallery\har ki dun.jpeg",
     galleryImages: [
       "/images/har-ki-dun-gallery/har-ki-dun-valley.jpg",
       "/images/har-ki-dun-gallery/osla-village.jpg",
