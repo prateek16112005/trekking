@@ -58,7 +58,7 @@ const Destinations: React.FC = () => {
             <div className="flex items-center justify-center space-x-8 text-sm">
               <div className="flex items-center space-x-2">
                 <Globe className="h-5 w-5 text-emerald-400" />
-                <span>50+ Destinations</span>
+                <span>10+ Destinations</span>
               </div>
               <div className="flex items-center space-x-2">
                 <Mountain className="h-5 w-5 text-emerald-400" />

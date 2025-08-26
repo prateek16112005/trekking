@@ -50,7 +50,7 @@ const Hero = () => {
             <div className="flex items-center justify-center mb-2">
               <Mountain className="w-8 h-8 text-orange-400" />
             </div>
-            <div className="text-3xl font-bold text-orange-400">50+</div>
+            <div className="text-3xl font-bold text-orange-400">10+</div>
             <div className="text-gray-300">Epic Treks</div>
           </div>
           
